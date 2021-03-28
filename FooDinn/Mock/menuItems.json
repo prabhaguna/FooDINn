@@ -1,0 +1,73 @@
+{
+    "menuItems" : [
+        {
+          "id": 1,
+          "name": "Hawaiian mini",
+          "ingredients": ["Cheese","Mozarella","Pineapple"],
+          "weight" : "100 grams",
+          "size"   : "20 Cm",
+          "price"  : 20,
+          "currency": "usd",
+          "img" : "menuItem1.png",
+          "category" : ["spicy","vegan"]
+        },
+        {
+          "id": 2,
+          "name": "Hawaiian",
+          "ingredients": ["Chicken","Mozarella","Pineapple"],
+          "weight" : "200 grams",
+          "size"   : "35 Cm",
+          "price"  : 55,
+          "currency": "usd",
+          "img" : "menuItem2.png",
+          "category" : ["spicy"]
+        },
+        {
+          "id": 3,
+          "name": "Hawaiian Special",
+          "ingredients": ["Chicken","Mozarella","Pineapple"],
+          "weight" : "200 grams",
+          "size"   : "40 Cm",
+          "price"  : 110,
+          "currency": "usd",
+          "img" : "menuItem3.png",
+          "category" : ["vegan"]
+        },
+        {
+          "id": 4,
+          "name": "Hawaiian Spicy",
+          "ingredients": ["Chicken","Mozarella","Pineapple"],
+          "weight" : "200 grams",
+          "size"   : "35 Cm",
+          "price"  : 55,
+          "currency": "usd",
+          "img" : "menuItem1.png",
+          "category" : ["spicy","vegan"]
+        },
+        {
+          "id": 5,
+          "name": "Hawaiian Spicy Special",
+          "ingredients": ["Chicken","Mozarella","Pineapple"],
+          "weight" : "200 grams",
+          "size"   : "35 Cm",
+          "price"  : 100,
+          "currency": "usd",
+          "img" : "menuItem2.png",
+          "category" : ["spicy"]
+        },
+        {
+          "id": 6,
+          "name": "Pepperoni",
+          "ingredients": ["pepperoni","Tomatoes","Sauce"],
+          "weight" : "200 grams",
+          "size"   : "35 Cm",
+          "price"  : 60,
+          "currency": "usd",
+          "img" : "menuItem3.png",
+          "category" : ["spicy","vegan"]
+        }
+    ]
+}
+
+
+

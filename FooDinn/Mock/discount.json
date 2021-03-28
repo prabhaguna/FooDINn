@@ -1,0 +1,17 @@
+{
+    "discount": [
+        {
+          "id": 1,
+          "name": "Tuesday discount",
+          "desc": "Every Tuesday there is a free drik to order",
+          "img" : "discountBg.png"
+        },
+        {
+          "id": 2,
+          "name": "Saturday discount",
+          "desc": "Coca-Cola as a gift to any order",
+          "img" : "discountBg.png"
+        }
+    ]
+}
+

@@ -1,0 +1,31 @@
+{
+    "filters" : [
+        {
+          "id": 1,
+          "name": "filter one",
+        },
+        {
+          "id": 2,
+          "name": "filter two",
+        },
+        {
+          "id": 3,
+          "name": "filter three",
+        },
+        {
+          "id": 4,
+          "name": "filter2",
+        },
+        {
+          "id": 5,
+          "name": "filter four",
+        },
+        {
+          "id": 6,
+          "name": "filter2",
+        }
+    ]
+}
+
+
+
